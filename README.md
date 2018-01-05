@@ -1,0 +1,2 @@
+# autoGoogle
+OCR and analysis
